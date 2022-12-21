@@ -1,4 +1,6 @@
 /// <reference path="./global.d.ts" />
 import { FastifyInstance } from 'fastify'
 
-export default async function (app: FastifyInstance) {}
+export default async function(app: FastifyInstance) {
+  console.log("plugin:")
+}
