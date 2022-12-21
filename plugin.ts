@@ -2,5 +2,7 @@
 import { FastifyInstance } from 'fastify'
 
 export default async function(app: FastifyInstance) {
-  console.log("plugin:")
+  app.get('/test', async function(request, response) {
+    return "hello world"
+  })
 }
