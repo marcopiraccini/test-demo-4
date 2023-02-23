@@ -1,5 +1,8 @@
 # Platformatic DB API
 
+
+
+
 This is a generated [Platformatic DB](https://oss.platformatic.dev/docs/reference/db/introduction) application.
 
 ## Requirements

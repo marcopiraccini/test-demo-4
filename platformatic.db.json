@@ -16,12 +16,6 @@
     "dir": "migrations"
   },
   "plugin": {
-    "path": "plugin.ts",
-    "typescript": {
-      "outDir": "dist"
-    }
-  },
-  "types": {
-    "autogenerate": true
+    "path": "plugin.js"
   }
 }
